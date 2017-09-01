@@ -1,10 +1,10 @@
-ѕрограмма ћ€чик
+Program Ball
 
-÷ель игры:
-	Ќабрать как можно больше очков с помощью м€чика,
-которым можно управлють с помощью стрелок на клавиатуре.
-ћ€ч должен падать с платформы на платформу, причем не попадать на красную
-платформу.
-	¬ игре три уровн€ сложности, которые отличаютс€ скоростью 
-передвижени€ платформ и м€ча.
-	„ем дольше вы играете, тем больше очков получаете.
+Purpose of the game:
+Collect as many points as possible with the ball,
+wiich can be controlled using the arrows on the keyboard.
+The ball should fall from the platform to the platform, and not fall on the red
+platform.
+The game has three levels of difficulty, which differ speed
+movement of platforms and the ball.
+The longer you play, the more points you get.
